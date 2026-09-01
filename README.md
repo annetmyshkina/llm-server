@@ -6,7 +6,7 @@
 [![uv](https://img.shields.io/badge/uv-0.4+-purple.svg)](https://github.com/astral-sh/uv)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## 📖 Описание
+## Описание
 
 **LLM Service** — это высокопроизводительный REST API для работы с большими языковыми моделями.
 
@@ -19,7 +19,7 @@
 - ✅ Метрики качества (RAGAS)
 - ✅ Контейнеризация (Docker)
 
-## 🛠️ Технологический стек
+## Технологический стек
 
 | Компонент | Технология |
 | :--- | :--- |
@@ -159,4 +159,10 @@ uv run ruff check --fix .
 ### Проверка типов
 ```bash
 uv run mypy .
+```
+
+## Лицензия
+
+```markdown
+MIT License. См. [LICENSE](LICENSE) для деталей.
 ```
