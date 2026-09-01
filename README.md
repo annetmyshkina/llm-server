@@ -162,7 +162,4 @@ uv run mypy .
 ```
 
 ## Лицензия
-
-```markdown
 MIT License. См. [LICENSE](LICENSE) для деталей.
-```
